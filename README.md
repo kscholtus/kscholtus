@@ -1,11 +1,13 @@
+<!---
 - 👋 Hi, I’m @kscholtus
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+--->
 
 <!---
 kscholtus/kscholtus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-👋 Hi, I’m @kscholtus. I'm a Application Support engineer at *VW Infra Digital* in The Netherlands. Our team supports the software required to build better. This includes maintaining some very handy engineering apps that we manage through the repositories in my account.
+👋 Hi, I’m @kscholtus, Application Support Engineer at _VW Infra Digital_ in The Netherlands. Our team supports the software required to build better. This includes maintaining some very handy engineering apps that we manage through the repositories in my account.
